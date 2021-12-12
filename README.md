@@ -16,3 +16,15 @@ In a spline of multiple elements (knot vector with internal knot values), will h
 
 
 
+#### Splines Properties:
+
+
+
+#### Knot Insertion:
+
+
+
+#### Bezier decomposition:
+
+
+
